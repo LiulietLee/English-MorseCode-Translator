@@ -1,5 +1,5 @@
 # English-MorseCode-Translator
-A little stuff that be used to translate from English to Morse code and from Morse code to English.
+A little stuff that be used to translate from English to Morse code and from Morse code to English for iOS development.
 
 ## Installation
 Just move the LLMorseCodeTranslator.swift file to your project.
